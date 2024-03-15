@@ -1,5 +1,5 @@
 # Residential_complex_melody
-## Layout of the site layout
+## Layout of the site
 
 ## The project was completed by: Den Kodatskyi ( ©KonadskyDEN )
 
