@@ -1,0 +1,67 @@
+/* Residential complex melody ===================================== */
+
+html {
+  background-color: lightgray;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+
+/* HEADER ============================================== */
+.header {
+  background-color: #635854;
+  padding: 12px 0;
+  border-bottom: 4px solid rgb(53, 150, 245);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1440px;
+  max-height: 56px;
+  margin: auto;
+}
+
+.navbar__menu {
+  display: flex;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navbar__item {
+  margin: 0 40px;
+}
+
+.navbar__link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navbar__contacts {
+  text-align: right;
+}
+
+.navbar__text {
+  display: block;
+  color: #fff;
+  margin-bottom: 3px;
+}
+
+.navbar__phone {
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  color: #fff;
+  text-decoration: none;
+}
